@@ -1,0 +1,53 @@
+#container{
+	width:880px;
+	min-height:500px;
+	background:#e20ee2;
+	margin:auto;
+
+}
+header{
+	min-height:100px;
+	background:#ff66ff;
+	display:block;
+}
+ul li {
+
+	list-style-type:none;
+	display:inline-block;
+}
+#container ul:first-child {
+	text-decoration:underline;
+	text-align:center;
+	word-spacing:10px;
+}
+nav{
+	min-height:40px;
+	background:#cc66ff;
+	text-align:center;
+}
+#content{
+	min-height:300px;
+	background:#44eecc;
+	padding:20px 15px;
+}
+#recycle{
+	width:255px;
+	min-height:300px;
+	background:#11ea00;
+	float:left;
+	margin-right :20px;
+	text-align:center;
+}
+.com-pr{
+	width:260px;
+	min-height:300px;
+	background:#11ea00;
+	margin-right:20px;
+	float:left;
+	text-align:center;
+}
+footer{
+	min-height:50px;
+	background:#e20ee2;
+	text-align:center;
+}
